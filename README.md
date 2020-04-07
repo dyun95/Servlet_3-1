@@ -6,6 +6,7 @@
  - point 상세 정보 출력 
  - point 수정
  - point 삭제
+ 왓다가요
  
  
  ## JSP
